@@ -4,8 +4,6 @@
 🎂 **Born in 2011 | 14-year-old developer / 14岁的开发者**  
 🧬 **Biological Sex / 生理性别**：Male（男性）  
 🧩 **Gender Identity / 心理性别**：Unknown（未知）  
-💬 可以使用男性或女性的人称代词称呼我，我都可以接受！
-💬 You can refer to me using either male or female pronouns, and I’m comfortable with both.
 
 ---
 
