@@ -3,7 +3,7 @@
 📡 **Amateur Radio Callsign / 业余无线电呼号**：**BG5EGG**  
 🎂 **Born in 2011 | 14-year-old developer / 14岁的开发者**  
 🧬 **Biological Sex / 生理性别**：Male（男性）  
-🧩 **Gender Identity / 心理性别**：Unknown（未知）  
+🧩 **Gender Identity / 心理性别**：Unknown（未知，可能是女？）  
 
 ---
 
