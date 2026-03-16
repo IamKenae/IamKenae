@@ -9,10 +9,10 @@
 
 ## 🧠 About Me / 关于我
 
-Hello! I'm **@IamKenae**, a 14-year-old hobbyist developer who loves coding, electronics, and amateur radio.  
+Hello! I'm **@IamKenae**, a 15-year-old hobbyist developer who loves coding, electronics, and amateur radio.  
 I enjoy experimenting with web development, learning new technologies, and exploring how code connects the world.  
 
-你好！我是 **小开（@IamKenae）**，一名 14 岁的编程爱好者和无线电玩家（呼号：**BG5EGG**）。  
+你好！我是 **小开（@IamKenae）**，一名 15 岁的编程爱好者和无线电玩家（呼号：**BG5EGG**）。  
 我喜欢写代码、研究电子技术，也热爱探索科技的乐趣与创造的可能。
 
 ---
